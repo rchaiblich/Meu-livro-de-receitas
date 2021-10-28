@@ -1,6 +1,6 @@
-#Strogonoff de Frango:chiken
+# Strogonoff de Frango :chicken:
 
-##Igredientes :
+## Igredientes:
 
  - 3 peitos de frango cortados em cubos
 
@@ -24,7 +24,7 @@
 
  - batata palha a gosto 
 
-##Modo de Preparo 
+## Modo de Preparo 
 
  - Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.
   
@@ -43,7 +43,7 @@
  
 
 
-	
-	
-	
+​	
+​	
+​	
 
